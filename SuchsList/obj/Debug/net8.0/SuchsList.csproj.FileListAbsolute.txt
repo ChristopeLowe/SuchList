@@ -1,0 +1,14 @@
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\obj\Debug\net8.0\SuchsList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\obj\Debug\net8.0\SuchsList.AssemblyInfoInputs.cache
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\obj\Debug\net8.0\SuchsList.AssemblyInfo.cs
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\obj\Debug\net8.0\SuchsList.csproj.CoreCompileInputs.cache
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\bin\Debug\net8.0\SuchsList.exe
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\bin\Debug\net8.0\SuchsList.deps.json
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\bin\Debug\net8.0\SuchsList.runtimeconfig.json
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\bin\Debug\net8.0\SuchsList.dll
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\bin\Debug\net8.0\SuchsList.pdb
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\obj\Debug\net8.0\SuchsList.dll
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\obj\Debug\net8.0\refint\SuchsList.dll
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\obj\Debug\net8.0\SuchsList.pdb
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\obj\Debug\net8.0\SuchsList.genruntimeconfig.cache
+C:\Users\christophe.lowe-kamn\OneDrive - RFS\Documents\ApprendreC#\SuchsList\obj\Debug\net8.0\ref\SuchsList.dll
